@@ -19,12 +19,28 @@
 | 1:24 | LIFX (BR30) | LCMV4 | Brightness, Whites, Colors |
 | 1:25 | LIFX + (A19) | LCMV4 | Brightness, Whites, Colors, Infrared |
 | 1:26 | LIFX + (BR30) | LCMV4 | Brightness, Whites, Colors, Infrared |
-| 1:27 | LIFX (A19) | LCM2 | Brightness, Whites, Colors |
-| 1:28 | LIFX (BR30) | LCM2 | Brightness, Whites, Colors |
-| 1:29 | LIFX + (A19) | LCM2 | Brightness, Whites, Colors, Infrared |
-| 1:30 | LIFX + (BR30) | LCM2 | Brightness, Whites, Colors, Infrared |
+| 1:27 | LIFX (A19) | LCM2 | Brightness, Whites, Colors, HomeKit |
+| 1:28 | LIFX (BR30) | LCM2 | Brightness, Whites, Colors, HomeKit |
+| 1:29 | LIFX + (A19) | LCM2 | Brightness, Whites, Colors, Infrared, HomeKit |
+| 1:30 | LIFX + (BR30) | LCM2 | Brightness, Whites, Colors, Infrared, HomeKit |
 | 1:31 | LIFX Z | LCMV4 | Brightness, Whites, Colors, Zones |
-| 1:32 | LIFX Z | LCM2 | Brightness, Whites, Colors, Zones |
-| 1:36 | LIFX Zinc O | LCM2 | Brightness, Whites, Colors |
-| 1:37 | LIFX Zinc N | LCM2 | Brightness, Whites, Colors |
+| 1:32 | LIFX Z | LCM2_Silver | Brightness, Whites, Colors, Zones, HomeKit |
+| 1:36 | LIFX DL | LCM2_2 | Brightness, Whites, Colors, HomeKit |
+| 1:37 | LIFX DL | LCM2_2 | Brightness, Whites, Colors, HomeKit |
+| 1:38 | LIFX Bar | LCM2_Silver | Brightness, Whites, Colors, Zones, HomeKit |
+| 1:43 | LIFX (A19) | LCM2_2 | Brightness, Whites, Colors, HomeKit |
+| 1:44 | LIFX (BR30) | LCM2_2 | Brightness, Whites, Colors, HomeKit |
+| 1:45 | LIFX + (A19) | LCM2_2 | Brightness, Whites, Colors, Infrared, HomeKit |
+| 1:46 | LIFX + (BR30) | LCM2_2 | Brightness, Whites, Colors, Infrared, HomeKit |
+| 1:48 | LIFX LCM3 Test | LCM3 | Brightness, Whites, Colors |
+| 1:49 | LIFX Mini C | LCM3 | Brightness, Whites, Colors, HomeKit |
+| 1:50 | LIFX Mini DD | LCM3 | Brightness, Whites, HomeKit |
+| 1:51 | LIFX Mini D | LCM3 | Brightness, HomeKit |
+| 1:52 | LIFX GU10 | LCM3 | Brightness, Whites, Colors, HomeKit |
+| 1:53 | LIFX GU10 DD | LCM3 | Brightness, Whites, Colors |
+| 1:54 | LIFX GU10 D | LCM3 | Brightness, Whites, Colors |
+| 1:55 | LIFX Tango | LCM3 | Brightness, Whites, Colors |
+| 1:56 | LIFX Strontium | LCM3 | Brightness, Whites, Colors |
+| 1:57 | LIFX Helium | LCM3 | Brightness, Whites, Colors |
+| 1:58 | LIFX LCM 3 Dev Board | LCM3 | Brightness, Whites, Colors |
 | 3:17 | MAXUS Maxus Ceiling Light | LCMV4 | Brightness, Whites |
