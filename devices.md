@@ -28,8 +28,8 @@
 | 1:36 | LIFX DL | LCM2_2 | Brightness, Whites, Colors, HomeKit |
 | 1:37 | LIFX DL | LCM2_2 | Brightness, Whites, Colors, HomeKit |
 | 1:38 | LIFX Beam | LCM2_Bar | Brightness, Whites, Colors, Zones, HomeKit, Multizone |
-| 1:39 | LIFX Zinc TW | LCM2_2 | Brightness, Whites, HomeKit |
-| 1:40 | LIFX Zinc Color v3 | LCM2_2 | Brightness, Whites, Colors, HomeKit |
+| 1:39 | LIFX DL WW 700lm | LCM2_2 | Brightness, Whites, HomeKit |
+| 1:40 | LIFX DL Colour 700lm | LCM2_2 | Brightness, Whites, Colors, HomeKit |
 | 1:43 | LIFX (A19) | LCM2_2 | Brightness, Whites, Colors, HomeKit |
 | 1:44 | LIFX (BR30) | LCM2_2 | Brightness, Whites, Colors, HomeKit |
 | 1:45 | LIFX + (A19) | LCM2_2 | Brightness, Whites, Colors, Infrared, HomeKit |
@@ -46,21 +46,50 @@
 | 1:58 | LIFX LCM 3 Dev Board | LCM3 | Brightness, Whites, Colors |
 | 1:59 | LIFX Mini C | LCM3 | Brightness, Whites, Colors, HomeKit |
 | 1:60 | LIFX Mini DD | LCM3 | Brightness, Whites, HomeKit |
-| 1:61 | LIFX Mini W | LCM3 | HomeKit |
+| 1:61 | LIFX Mini W | LCM3 | Brightness, HomeKit |
 | 1:62 | LIFX (A19) LCM3 | LCM3 | Brightness, Whites, Colors, HomeKit |
 | 1:63 | LIFX (BR30) LCM3 | LCM3 | Brightness, Whites, Colors, HomeKit |
 | 1:64 | LIFX + (A19) LCM3 | LCM3 | Brightness, Whites, Colors, Infrared, HomeKit |
 | 1:65 | LIFX + (BR30) LCM3 | LCM3 | Brightness, Whites, Colors, Infrared, HomeKit |
 | 1:66 | LIFX Mini W | LCM3 | Brightness, HomeKit |
-| 1:67 | LIFX Candle DD | LCM3 | Brightness, Whites, HomeKit |
+| 1:67 | LIFX Candle WW | LCM3 | Brightness, Whites, HomeKit |
 | 1:68 | LIFX Candle C | LCM3_Candle | Brightness, Whites, Colors, Chain, HomeKit |
 | 1:69 | LIFX Mercury | LCM3 | Brightness, HomeKit |
-| 1:70 | LIFX Switch | LCM3_Switch | Relays |
-| 1:81 | LIFX Candle DD | LCM3_32 | Brightness, Whites, HomeKit |
-| 1:82 | LIFX Mercury 32 | LCM3_32 | Brightness, HomeKit |
+| 1:70 | LIFX Switch | LCM3_Switch | HomeKit, Relays |
+| 1:81 | LIFX Candle WW | LCM3_32NEW | Brightness, Whites, HomeKit |
+| 1:82 | LIFX Filament Clear | LCM3_32 | Brightness, HomeKit |
 | 1:83 | LIFX ESP32 Dev | LCM3_32 | Brightness, HomeKit |
-| 1:84 | LIFX Switch | LCM3_Switch | Relays |
-| 1:87 | LIFX Mini W | LCM3_32 | Brightness, HomeKit |
-| 1:88 | LIFX Mini W | LCM3_32 | Brightness, HomeKit |
-| 1:89 | LIFX Switch | LCM3_Switch | Relays |
+| 1:84 | LIFX Switch | LCM3_Switch | HomeKit, Relays |
+| 1:85 | LIFX Filament Amber | LCM3_32 | Brightness, HomeKit |
+| 1:86 | LIFX Filament Smokey | LCM3_32 | Brightness, HomeKit |
+| 1:87 | LIFX White | LCM3_32NEW | Brightness, HomeKit |
+| 1:88 | LIFX White | LCM3_32NEW | Brightness, HomeKit |
+| 1:89 | LIFX Switch | LCM3_Switch | HomeKit, Relays |
+| 1:90 | LIFX Clean A19 1100lm | LCM3_32 | Brightness, Whites, Colors, HomeKit |
+| 1:91 | LIFX Color 800lm | LCM3_32 | Brightness, Whites, Colors, HomeKit |
+| 1:92 | LIFX Colour 1000lm | LCM3_32 | Brightness, Whites, Colors, HomeKit |
+| 1:93 | LIFX Color A19 1100lm | LCM3_32 | Brightness, Whites, Colors, HomeKit |
+| 1:94 | LIFX Color BR30 1100lm | LCM3_32 | Brightness, Whites, Colors, HomeKit |
+| 1:95 | LIFX Copper | LCM3_32 | Brightness, Whites, HomeKit |
+| 1:96 | LIFX Candle WW | LCM3_32NEW | Brightness, Whites, HomeKit |
+| 1:97 | LIFX Colour A19 1200lm | LCM3_32 | Brightness, Whites, Colors, HomeKit |
+| 1:98 | LIFX Colour BR30 1100lm | LCM3_32 | Brightness, Whites, Colors, HomeKit |
+| 1:99 | LIFX Clean A19 1200lm | LCM3_32 | Brightness, Whites, Colors, HomeKit |
+| 1:100 | LIFX Filament Clear | LCM3_32 | Brightness, HomeKit |
+| 1:101 | LIFX Filament Amber | LCM3_32 | Brightness, HomeKit |
+| 1:102 | LIFX Filament Smokey | LCM3_32 | Brightness, HomeKit |
+| 1:109 | LIFX NV A19 1100lm | LCM3_32 | Brightness, Whites, Colors, Infrared, HomeKit |
+| 1:110 | LIFX NV BR30 1100lm | LCM3_32 | Brightness, Whites, Colors, Infrared, HomeKit |
+| 1:111 | LIFX NV A19 1200lm | LCM3_32 | Brightness, Whites, Colors, Infrared, HomeKit |
+| 1:112 | LIFX NV BR30 1100lm | LCM3_32 | Brightness, Whites, Colors, Infrared, HomeKit |
+| 1:113 | LIFX WW 800lm | LCM3_32 | Brightness, Whites, HomeKit |
+| 1:114 | LIFX WW 1000lm | LCM3_32 | Brightness, Whites, HomeKit |
+| 1:115 | LIFX Switch | LCM3_Switch | HomeKit, Relays |
+| 1:116 | LIFX Switch US | LCM3_Switch | HomeKit, Relays |
+| 1:117 | LIFX Z | LCM3_Z | Brightness, Whites, Colors, Zones, HomeKit, Multizone |
+| 1:118 | LIFX Z | LCM3_Z | Brightness, Whites, Colors, Zones, HomeKit, Multizone |
+| 1:119 | LIFX Beam | LCM3_Bar | Brightness, Whites, Colors, Zones, HomeKit, Multizone |
+| 1:120 | LIFX Beam | LCM3_Bar | Brightness, Whites, Colors, Zones, HomeKit, Multizone |
+| 1:121 | LIFX DL | LCM3_32 | Brightness, Whites, Colors, HomeKit |
+| 1:122 | LIFX DL | LCM3_32 | Brightness, Whites, Colors, HomeKit |
 | 3:17 | MAXUS Maxus Ceiling Light | LCMV4 | Brightness, Whites |
