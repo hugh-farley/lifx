@@ -1,5 +1,19 @@
 {
   "firmwares" : {
+    "custom_390_pre_alpha_LCM3" : {
+      "latest" : {
+        "checksum" : "2c391fcd",
+        "host" : {
+          "timestamp" : 1640229584000000000,
+          "version" : "3.90"
+        },
+        "url" : "https:\/\/hosted.lifx.co\/firmware\/v3.90-20211223-RC1-BULB.zip",
+        "wifi" : {
+          "timestamp" : 1456093684000000000,
+          "version" : "101.62"
+        }
+      }
+    },
     "custom_A19_TAP_LCM3" : {
       "latest" : {
         "checksum" : "2c61fa5a",
@@ -106,6 +120,48 @@
           "version" : "3.50"
         },
         "url" : "https:\/\/hosted.lifx.co\/firmware\/v3.50-20181224-RC3-TILE.zip",
+        "wifi" : {
+          "timestamp" : 1456093684000000000,
+          "version" : "101.62"
+        }
+      }
+    },
+    "custom_APPLE_RASHMI_TEST_LCM2_Bar" : {
+      "latest" : {
+        "checksum" : "eb4e19d6",
+        "host" : {
+          "timestamp" : 1630337118000000000,
+          "version" : "2.80"
+        },
+        "url" : "https:\/\/hosted.lifx.co\/firmware\/v2.80-20210831-RC6-BAR.zip",
+        "wifi" : {
+          "timestamp" : 1456093684000000000,
+          "version" : "101.62"
+        }
+      }
+    },
+    "custom_APPLE_RASHMI_TEST_LCM2_Silver" : {
+      "latest" : {
+        "checksum" : "12f247e9",
+        "host" : {
+          "timestamp" : 1630337117000000000,
+          "version" : "2.80"
+        },
+        "url" : "https:\/\/hosted.lifx.co\/firmware\/v2.80-20210831-RC6-SILVERV2.zip",
+        "wifi" : {
+          "timestamp" : 1456093684000000000,
+          "version" : "101.62"
+        }
+      }
+    },
+    "custom_Certification_Test_LCM3_S" : {
+      "latest" : {
+        "checksum" : "304998c4",
+        "host" : {
+          "timestamp" : 1643674462000000000,
+          "version" : "3.90"
+        },
+        "url" : "https:\/\/hosted.lifx.co\/firmware\/v3.90-20220201-RC6-SWITCH.zip",
         "wifi" : {
           "timestamp" : 1456093684000000000,
           "version" : "101.62"
@@ -323,6 +379,48 @@
     "custom_DEMO_MODE_LOWBRIGHTNESS_LCM3_Candle" : {
 
     },
+    "custom_DL_WW_ROLLBACK_LCM2_2" : {
+      "latest" : {
+        "checksum" : "13fb93a8",
+        "host" : {
+          "timestamp" : 1597902384000000000,
+          "version" : "2.80"
+        },
+        "url" : "https:\/\/hosted.lifx.co\/firmware\/v2.80-20200820-RC14-BULB.zip",
+        "wifi" : {
+          "timestamp" : 1456093684000000000,
+          "version" : "101.62"
+        }
+      }
+    },
+    "custom_DNS_MITIGATION_LCM3_32" : {
+      "latest" : {
+        "checksum" : "8a600c8f",
+        "host" : {
+          "timestamp" : 1615878061000000000,
+          "version" : "3.70"
+        },
+        "url" : "https:\/\/hosted.lifx.co\/firmware\/v3.70-20210316-RC39-BULB.zip",
+        "wifi" : {
+          "timestamp" : 1456093684000000000,
+          "version" : "101.62"
+        }
+      }
+    },
+    "custom_DNS_MITIGATION_LCM3_32NEW" : {
+      "latest" : {
+        "checksum" : "8a600c8f",
+        "host" : {
+          "timestamp" : 1615878061000000000,
+          "version" : "3.70"
+        },
+        "url" : "https:\/\/hosted.lifx.co\/firmware\/v3.70-20210316-RC39-BULB.zip",
+        "wifi" : {
+          "timestamp" : 1456093684000000000,
+          "version" : "101.62"
+        }
+      }
+    },
     "custom_DOWNGRADE_LCM2" : {
 
     },
@@ -371,14 +469,42 @@
     "custom_ENCRYPTION_LCM3" : {
 
     },
-    "custom_INNOTECH_FACTORY_EVALUATION_LCM3_Switch" : {
+    "custom_GOOGLE_WSS_LCM3_32" : {
       "latest" : {
-        "checksum" : "a9ff451a",
+        "checksum" : "b57ae692",
         "host" : {
-          "timestamp" : 1603767496000000000,
-          "version" : "3.72"
+          "timestamp" : 1626851630000000000,
+          "version" : "3.74"
         },
-        "url" : "https:\/\/hosted.lifx.co\/firmware\/v3.72-20201027-RC2-SWITCH.zip",
+        "url" : "https:\/\/hosted.lifx.co\/firmware\/v3.74-20210721-DEBUG1-BULB.zip",
+        "wifi" : {
+          "timestamp" : 1456093684000000000,
+          "version" : "101.62"
+        }
+      }
+    },
+    "custom_GOOGLE_WSS_LCM3_32NEW" : {
+      "latest" : {
+        "checksum" : "b57ae692",
+        "host" : {
+          "timestamp" : 1626851630000000000,
+          "version" : "3.74"
+        },
+        "url" : "https:\/\/hosted.lifx.co\/firmware\/v3.74-20210721-DEBUG1-BULB.zip",
+        "wifi" : {
+          "timestamp" : 1456093684000000000,
+          "version" : "101.62"
+        }
+      }
+    },
+    "custom_INNOTECH_FACTORY_EVALUATION_LCM3_S" : {
+      "latest" : {
+        "checksum" : "8bf29364",
+        "host" : {
+          "timestamp" : 1625789170000000000,
+          "version" : "3.82"
+        },
+        "url" : "https:\/\/hosted.lifx.co\/firmware\/v3.82-20210709-RC1-SWITCH.zip",
         "wifi" : {
           "timestamp" : 1456093684000000000,
           "version" : "101.62"
@@ -386,6 +512,37 @@
       }
     },
     "custom_LCM3_32_ADEL_DEBUGGING" : {
+
+    },
+    "custom_MATTER_BULB_LCM3" : {
+      "latest" : {
+        "checksum" : "da6fc258",
+        "host" : {
+          "timestamp" : 1647330039000000000,
+          "version" : "3.100"
+        },
+        "url" : "https:\/\/hosted.lifx.co\/firmware\/v3.100-20220315-RC6-BULB.zip",
+        "wifi" : {
+          "timestamp" : 1456093684000000000,
+          "version" : "101.62"
+        }
+      }
+    },
+    "custom_MATTER_SWITCH_LCM3" : {
+      "latest" : {
+        "checksum" : "7d389b56",
+        "host" : {
+          "timestamp" : 1647330040000000000,
+          "version" : "3.100"
+        },
+        "url" : "https:\/\/hosted.lifx.co\/firmware\/v3.100-20220315-RC6-SWITCH.zip",
+        "wifi" : {
+          "timestamp" : 1456093684000000000,
+          "version" : "101.62"
+        }
+      }
+    },
+    "custom_MATTER_TEST_LCM3" : {
 
     },
     "custom_ONBOARDING_LCM2_2" : {
@@ -474,12 +631,12 @@
     },
     "custom_PM_REVIEW_LCM3_32" : {
       "latest" : {
-        "checksum" : "8a600c8f",
+        "checksum" : "fc3a37f5",
         "host" : {
-          "timestamp" : 1615878061000000000,
-          "version" : "3.70"
+          "timestamp" : 1620885266000000000,
+          "version" : "3.80"
         },
-        "url" : "https:\/\/hosted.lifx.co\/firmware\/v3.70-20210316-RC39-BULB.zip",
+        "url" : "https:\/\/hosted.lifx.co\/firmware\/v3.80-20210513-RC2-BULB.zip",
         "wifi" : {
           "timestamp" : 1456093684000000000,
           "version" : "101.62"
@@ -502,12 +659,88 @@
     },
     "custom_PURPLE_LCM3" : {
       "latest" : {
-        "checksum" : "0274229e",
+        "checksum" : "57550bfb",
         "host" : {
-          "timestamp" : 1564972228000000000,
-          "version" : "3.50"
+          "timestamp" : 1625795545000000000,
+          "version" : "3.70"
         },
-        "url" : "https:\/\/hosted.lifx.co\/firmware\/v3.50-20190805-RC21-BULB.zip",
+        "url" : "https:\/\/hosted.lifx.co\/firmware\/v3.70-20210709-RC42-BULB.zip",
+        "wifi" : {
+          "timestamp" : 1456093684000000000,
+          "version" : "101.62"
+        }
+      }
+    },
+    "custom_PURPLE_LCM3_32" : {
+      "latest" : {
+        "checksum" : "57550bfb",
+        "host" : {
+          "timestamp" : 1625795545000000000,
+          "version" : "3.70"
+        },
+        "url" : "https:\/\/hosted.lifx.co\/firmware\/v3.70-20210709-RC42-BULB.zip",
+        "wifi" : {
+          "timestamp" : 1456093684000000000,
+          "version" : "101.62"
+        }
+      }
+    },
+    "custom_PURPLE_LCM3_32NEW" : {
+      "latest" : {
+        "checksum" : "60f27f0b",
+        "host" : {
+          "timestamp" : 1623222228000000000,
+          "version" : "3.70"
+        },
+        "url" : "https:\/\/hosted.lifx.co\/firmware\/v3.70-20210609-RC41-BULB.zip",
+        "wifi" : {
+          "timestamp" : 1456093684000000000,
+          "version" : "101.62"
+        }
+      }
+    },
+    "custom_ROLLBACK_BETA_LCM3" : {
+
+    },
+    "custom_ROLLBACK_BETA_LCM3_32" : {
+
+    },
+    "custom_ROLLBACK_BETA_ONLY_LCM3" : {
+      "latest" : {
+        "checksum" : "8ea5789f",
+        "host" : {
+          "timestamp" : 1574901399000000000,
+          "version" : "3.60"
+        },
+        "url" : "https:\/\/hosted.lifx.co\/firmware\/v3.60-20191128-RC7-BULB.zip",
+        "wifi" : {
+          "timestamp" : 1456093684000000000,
+          "version" : "101.62"
+        }
+      }
+    },
+    "custom_ROLLBACK_BR30_BETA_ONLY_LCM3" : {
+      "latest" : {
+        "checksum" : "7063e635",
+        "host" : {
+          "timestamp" : 1604880106000000000,
+          "version" : "3.70"
+        },
+        "url" : "https:\/\/hosted.lifx.co\/firmware\/v3.70-20201109-RC27-BULB.zip",
+        "wifi" : {
+          "timestamp" : 1456093684000000000,
+          "version" : "101.62"
+        }
+      }
+    },
+    "custom_ROLLBACK_PUBLIC_LCM2_2" : {
+      "latest" : {
+        "checksum" : "4d93d1d2",
+        "host" : {
+          "timestamp" : 1543215651000000000,
+          "version" : "2.77"
+        },
+        "url" : "https:\/\/hosted.lifx.co\/firmware\/v2.77-20181126-RC6.zip",
         "wifi" : {
           "timestamp" : 1456093684000000000,
           "version" : "101.62"
@@ -556,6 +789,34 @@
         }
       }
     },
+    "custom_SWITCH_PROTOCOL_TEST_LCM3_S" : {
+      "latest" : {
+        "checksum" : "277e84c5",
+        "host" : {
+          "timestamp" : 1626246346000000000,
+          "version" : "3.90"
+        },
+        "url" : "https:\/\/hosted.lifx.co\/firmware\/v3.90-20210714-RC1-SWITCH.zip",
+        "wifi" : {
+          "timestamp" : 1456093684000000000,
+          "version" : "101.62"
+        }
+      }
+    },
+    "custom_SWITCH_TEST_PAUL_LCM3_S" : {
+      "latest" : {
+        "checksum" : "b787d422",
+        "host" : {
+          "timestamp" : 1649632385000000000,
+          "version" : "3.90"
+        },
+        "url" : "https:\/\/hosted.lifx.co\/firmware\/v3.90-20220411-RELEASE-SWITCH.zip",
+        "wifi" : {
+          "timestamp" : 1456093684000000000,
+          "version" : "101.62"
+        }
+      }
+    },
     "custom_symbiot_technology_LCM2_2" : {
       "latest" : {
         "checksum" : "b16da9ad",
@@ -569,6 +830,9 @@
           "version" : "101.62"
         }
       }
+    },
+    "custom_UL_Test_LCM3_S" : {
+
     },
     "custom_WSS_LCM3" : {
       "latest" : {
@@ -627,6 +891,18 @@
       }
     },
     "LCM2_Bar" : {
+      "alpha" : {
+        "checksum" : "4447d1de",
+        "host" : {
+          "timestamp" : 1644186172000000000,
+          "version" : "2.80-BAR"
+        },
+        "url" : "https:\/\/hosted.lifx.co\/firmware\/v2.80-20220207-RC8-BAR.zip",
+        "wifi" : {
+          "timestamp" : 1456093684000000000,
+          "version" : "101.62"
+        }
+      },
       "latest" : {
         "checksum" : "4d93d1d2",
         "host" : {
@@ -641,6 +917,18 @@
       }
     },
     "LCM2_Silver" : {
+      "alpha" : {
+        "checksum" : "8e061a86",
+        "host" : {
+          "timestamp" : 1644186171000000000,
+          "version" : "2.80-SILVERV2"
+        },
+        "url" : "https:\/\/hosted.lifx.co\/firmware\/v2.80-20220207-RC8-SILVERV2.zip",
+        "wifi" : {
+          "timestamp" : 1456093684000000000,
+          "version" : "101.62"
+        }
+      },
       "latest" : {
         "checksum" : "4d93d1d2",
         "host" : {
@@ -656,12 +944,24 @@
     },
     "LCM3" : {
       "alpha" : {
-        "checksum" : "772d8e9d",
+        "checksum" : "2c391fcd",
         "host" : {
-          "timestamp" : 1612749614000000000,
+          "timestamp" : 1640229584000000000,
+          "version" : "3.90"
+        },
+        "url" : "https:\/\/hosted.lifx.co\/firmware\/v3.90-20211223-RC1-BULB.zip",
+        "wifi" : {
+          "timestamp" : 1456093684000000000,
+          "version" : "101.62"
+        }
+      },
+      "beta" : {
+        "checksum" : "9fa66146",
+        "host" : {
+          "timestamp" : 1642650145000000000,
           "version" : "3.70-BULB"
         },
-        "url" : "https:\/\/hosted.lifx.co\/firmware\/v3.70-20210208-RC36-BULB.zip",
+        "url" : "https:\/\/hosted.lifx.co\/firmware\/v3.70-20220120-RELEASE-BULB.zip",
         "wifi" : {
           "timestamp" : 1456093684000000000,
           "version" : "101.62"
@@ -682,12 +982,24 @@
     },
     "LCM3_32" : {
       "alpha" : {
-        "checksum" : "772d8e9d",
+        "checksum" : "2c391fcd",
         "host" : {
-          "timestamp" : 1612749614000000000,
+          "timestamp" : 1640229584000000000,
+          "version" : "3.90"
+        },
+        "url" : "https:\/\/hosted.lifx.co\/firmware\/v3.90-20211223-RC1-BULB.zip",
+        "wifi" : {
+          "timestamp" : 1456093684000000000,
+          "version" : "101.62"
+        }
+      },
+      "beta" : {
+        "checksum" : "9fa66146",
+        "host" : {
+          "timestamp" : 1642650145000000000,
           "version" : "3.70-BULB"
         },
-        "url" : "https:\/\/hosted.lifx.co\/firmware\/v3.70-20210208-RC36-BULB.zip",
+        "url" : "https:\/\/hosted.lifx.co\/firmware\/v3.70-20220120-RELEASE-BULB.zip",
         "wifi" : {
           "timestamp" : 1456093684000000000,
           "version" : "101.62"
@@ -696,12 +1008,24 @@
     },
     "LCM3_32NEW" : {
       "alpha" : {
-        "checksum" : "772d8e9d",
+        "checksum" : "2c391fcd",
         "host" : {
-          "timestamp" : 1612749614000000000,
+          "timestamp" : 1640229584000000000,
+          "version" : "3.90"
+        },
+        "url" : "https:\/\/hosted.lifx.co\/firmware\/v3.90-20211223-RC1-BULB.zip",
+        "wifi" : {
+          "timestamp" : 1456093684000000000,
+          "version" : "101.62"
+        }
+      },
+      "beta" : {
+        "checksum" : "9fa66146",
+        "host" : {
+          "timestamp" : 1642650145000000000,
           "version" : "3.70-BULB"
         },
-        "url" : "https:\/\/hosted.lifx.co\/firmware\/v3.70-20210208-RC36-BULB.zip",
+        "url" : "https:\/\/hosted.lifx.co\/firmware\/v3.70-20220120-RELEASE-BULB.zip",
         "wifi" : {
           "timestamp" : 1456093684000000000,
           "version" : "101.62"
@@ -722,12 +1046,12 @@
     },
     "LCM3_Bar" : {
       "alpha" : {
-        "checksum" : "59fa09f6",
+        "checksum" : "34ee0143",
         "host" : {
-          "timestamp" : 1619156108000000000,
+          "timestamp" : 1634188776000000000,
           "version" : "3.80-SILICON_B"
         },
-        "url" : "https:\/\/hosted.lifx.co\/firmware\/v3.80-20210423-RC8-SILICON_B.zip",
+        "url" : "https:\/\/hosted.lifx.co\/firmware\/v3.80-20211014-RC11-SILICON_B.zip",
         "wifi" : {
           "timestamp" : 1456093684000000000,
           "version" : "101.62"
@@ -736,38 +1060,38 @@
     },
     "LCM3_Candle" : {
       "alpha" : {
-        "checksum" : "65c8fab8",
+        "checksum" : "842b18f8",
         "host" : {
-          "timestamp" : 1565065929000000000,
+          "timestamp" : 1632797520000000000,
           "version" : "3.50-CANDLE"
         },
-        "url" : "https:\/\/hosted.lifx.co\/firmware\/v3.50-20190806-RC12-CANDLE.zip",
+        "url" : "https:\/\/hosted.lifx.co\/firmware\/v3.50-20210928-RC13-CANDLE.zip",
         "wifi" : {
           "timestamp" : 1456093684000000000,
           "version" : "101.62"
         }
       }
     },
-    "LCM3_Switch" : {
-      "alpha" : {
-        "checksum" : "997be641",
+    "LCM3_S" : {
+      "beta" : {
+        "checksum" : "b787d422",
         "host" : {
-          "timestamp" : 1609308286000000000,
-          "version" : "3.80-SWITCH"
+          "timestamp" : 1649632385000000000,
+          "version" : "3.90"
         },
-        "url" : "https:\/\/hosted.lifx.co\/firmware\/v3.80-20210104-RC1-SWITCH.zip",
+        "url" : "https:\/\/hosted.lifx.co\/firmware\/v3.90-20220411-RELEASE-SWITCH.zip",
         "wifi" : {
           "timestamp" : 1456093684000000000,
           "version" : "101.62"
         }
       },
       "latest" : {
-        "checksum" : "812f38b1",
+        "checksum" : "8bf29364",
         "host" : {
-          "timestamp" : 1594948634000000000,
-          "version" : "3.70"
+          "timestamp" : 1625789170000000000,
+          "version" : "3.82"
         },
-        "url" : "https:\/\/hosted.lifx.co\/firmware\/v3.70-20200723-RELEASE-SWITCH.zip",
+        "url" : "https:\/\/hosted.lifx.co\/firmware\/v3.82-20210709-RC1-SWITCH.zip",
         "wifi" : {
           "timestamp" : 1456093684000000000,
           "version" : "101.62"
@@ -790,12 +1114,12 @@
     },
     "LCM3_Z" : {
       "alpha" : {
-        "checksum" : "dc97672d",
+        "checksum" : "aa2fb56f",
         "host" : {
-          "timestamp" : 1619156107000000000,
+          "timestamp" : 1634188775000000000,
           "version" : "3.80-SILICON"
         },
-        "url" : "https:\/\/hosted.lifx.co\/firmware\/v3.80-20210423-RC8-SILICON.zip",
+        "url" : "https:\/\/hosted.lifx.co\/firmware\/v3.80-20211014-RC11-SILICON.zip",
         "wifi" : {
           "timestamp" : 1456093684000000000,
           "version" : "101.62"
@@ -853,7 +1177,7 @@
     "LCM3_32NEW" : "lcm3",
     "LCM3_Bar" : "lcm3",
     "LCM3_Candle" : "lcm3",
-    "LCM3_Switch" : "lcm3",
+    "LCM3_S" : "lcm3",
     "LCM3_Tile" : "lcm3",
     "LCM3_Z" : "lcm3"
   },
@@ -3792,6 +4116,11 @@
             {
               "available" : "FROM",
               "capability" : "FEATURE_FULL_BRIGHTNESS_RANGE",
+              "host_min" : "2.80"
+            },
+            {
+              "available" : "FROM",
+              "capability" : "FEATURE_LIGHT_RESTORE",
               "host_min" : "2.80"
             }
           ],
@@ -7772,22 +8101,27 @@
             },
             {
               "available" : "FROM",
+              "capability" : "FEATURE_BUTTON_CONFIGURATION",
+              "host_min" : "3.90"
+            },
+            {
+              "available" : "FROM",
+              "capability" : "FEATURE_BUTTON_ACTIONS",
+              "host_min" : "3.90"
+            },
+            {
+              "available" : "FROM",
               "capability" : "FEATURE_HOMEKIT_CODE_RECOVERY",
-              "host_min" : "3.80"
+              "host_min" : "3.90"
             },
             {
               "available" : "FROM",
               "capability" : "FEATURE_HOMEKIT",
-              "host_min" : "3.80"
-            },
-            {
-              "available" : "FROM",
-              "capability" : "FEATURE_BUTTON_CONFIGURATION",
-              "host_min" : "3.80"
+              "host_min" : "3.90"
             }
           ],
           "family" : "lcm3",
-          "firmware" : "LCM3_Switch",
+          "firmware" : "LCM3_S",
           "max_brightness" : 1,
           "min_brightness" : 0.0099999997764825821,
           "name" : "Switch"
@@ -8214,22 +8548,27 @@
             },
             {
               "available" : "FROM",
-              "capability" : "FEATURE_HOMEKIT_CODE_RECOVERY",
-              "host_min" : "3.80"
+              "capability" : "FEATURE_BUTTON_CONFIGURATION",
+              "host_min" : "3.90"
+            },
+            {
+              "available" : "FROM",
+              "capability" : "FEATURE_BUTTON_ACTIONS",
+              "host_min" : "3.90"
             },
             {
               "available" : "FROM",
               "capability" : "FEATURE_HOMEKIT",
-              "host_min" : "3.80"
+              "host_min" : "3.90"
             },
             {
               "available" : "FROM",
-              "capability" : "FEATURE_BUTTON_CONFIGURATION",
-              "host_min" : "3.80"
+              "capability" : "FEATURE_HOMEKIT_CODE_RECOVERY",
+              "host_min" : "3.90"
             }
           ],
           "family" : "lcm3",
-          "firmware" : "LCM3_Switch",
+          "firmware" : "LCM3_S",
           "max_brightness" : 1,
           "min_brightness" : 0.0099999997764825821,
           "name" : "Switch"
@@ -8774,22 +9113,27 @@
             },
             {
               "available" : "FROM",
-              "capability" : "FEATURE_HOMEKIT_CODE_RECOVERY",
-              "host_min" : "3.80"
+              "capability" : "FEATURE_BUTTON_CONFIGURATION",
+              "host_min" : "3.90"
+            },
+            {
+              "available" : "FROM",
+              "capability" : "FEATURE_BUTTON_ACTIONS",
+              "host_min" : "3.90"
             },
             {
               "available" : "FROM",
               "capability" : "FEATURE_HOMEKIT",
-              "host_min" : "3.80"
+              "host_min" : "3.90"
             },
             {
               "available" : "FROM",
-              "capability" : "FEATURE_BUTTON_CONFIGURATION",
-              "host_min" : "3.80"
+              "capability" : "FEATURE_HOMEKIT_CODE_RECOVERY",
+              "host_min" : "3.90"
             }
           ],
           "family" : "lcm3",
-          "firmware" : "LCM3_Switch",
+          "firmware" : "LCM3_S",
           "max_brightness" : 1,
           "min_brightness" : 0.0099999997764825821,
           "name" : "Switch"
@@ -11340,22 +11684,27 @@
             },
             {
               "available" : "FROM",
-              "capability" : "FEATURE_HOMEKIT_CODE_RECOVERY",
-              "host_min" : "3.80"
+              "capability" : "FEATURE_BUTTON_CONFIGURATION",
+              "host_min" : "3.90"
+            },
+            {
+              "available" : "FROM",
+              "capability" : "FEATURE_BUTTON_ACTIONS",
+              "host_min" : "3.90"
             },
             {
               "available" : "FROM",
               "capability" : "FEATURE_HOMEKIT",
-              "host_min" : "3.80"
+              "host_min" : "3.90"
             },
             {
               "available" : "FROM",
-              "capability" : "FEATURE_BUTTON_CONFIGURATION",
-              "host_min" : "3.80"
+              "capability" : "FEATURE_HOMEKIT_CODE_RECOVERY",
+              "host_min" : "3.90"
             }
           ],
           "family" : "lcm3",
-          "firmware" : "LCM3_Switch",
+          "firmware" : "LCM3_S",
           "max_brightness" : 1,
           "min_brightness" : 0.0099999997764825821,
           "name" : "Switch"
@@ -11412,22 +11761,31 @@
             },
             {
               "available" : "FROM",
-              "capability" : "FEATURE_HOMEKIT_CODE_RECOVERY",
-              "host_min" : "3.80"
+              "capability" : "FEATURE_BUTTON_CONFIGURATION",
+              "host_min" : "3.90"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "FEATURE_HIDE_FIRST_RELAY"
+            },
+            {
+              "available" : "FROM",
+              "capability" : "FEATURE_BUTTON_ACTIONS",
+              "host_min" : "3.90"
             },
             {
               "available" : "FROM",
               "capability" : "FEATURE_HOMEKIT",
-              "host_min" : "3.80"
+              "host_min" : "3.90"
             },
             {
               "available" : "FROM",
-              "capability" : "FEATURE_BUTTON_CONFIGURATION",
-              "host_min" : "3.80"
+              "capability" : "FEATURE_HOMEKIT_CODE_RECOVERY",
+              "host_min" : "3.90"
             }
           ],
           "family" : "lcm3",
-          "firmware" : "LCM3_Switch",
+          "firmware" : "LCM3_S",
           "max_brightness" : 1,
           "min_brightness" : 0.0099999997764825821,
           "name" : "Switch US"
@@ -11557,6 +11915,10 @@
             {
               "available" : "ALWAYS",
               "capability" : "FEATURE_FULL_BRIGHTNESS_RANGE"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "FEATURE_LIGHT_RESTORE"
             }
           ],
           "family" : "lcm3",
@@ -11690,6 +12052,10 @@
             {
               "available" : "ALWAYS",
               "capability" : "FEATURE_FULL_BRIGHTNESS_RANGE"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "FEATURE_LIGHT_RESTORE"
             }
           ],
           "family" : "lcm3",
@@ -12205,6 +12571,1750 @@
           "max_brightness" : 1,
           "min_brightness" : 0.0099999997764825821,
           "name" : "DL"
+        },
+        "123" : {
+          "capabilities" : [
+            {
+              "available" : "ALWAYS",
+              "capability" : "KELVIN_PROFILE_FULL_SPECTRUM"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "FEATURE_HOMEKIT"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "PROTOCOL_LIFXv1"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "PROTOCOL_HTTP_UPGRADE"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "TRANSPORT_LAN"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "TRANSPORT_WAN"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "FEATURE_LIGHT_COLORS"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "FEATURE_LIGHT_TUNABLE_WHITES"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "FEATURE_LIGHT_WAVEFORMS"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "FEATURE_LIGHT_VARIABLE_BRIGHTNESS"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "FEATURE_V2_GROUPING"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "FEATURE_STROBE"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "MESSAGE_LIFXv1_ACKS"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "MESSAGE_LIFXv1_SOURCE_SEQUENCE"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "MESSAGE_LIFXv1_DEVICE_SET_PAN_GATEWAY"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "MESSAGE_LIFXv1_DEVICE_SET_SITE"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "MESSAGE_LIFXv1_DEVICE_SET_FACTORY_RESET"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "MESSAGE_LIFXv1_DEVICE_ECHO_REQUEST"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "MESSAGE_LIFXv1_LIGHT_SET_POWER"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "MESSAGE_LIFXv1_LIGHT_SET_WAVEFORM_OPTIONAL"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "MESSAGE_LIFXv1_LIGHT_SET_SIMPLE_EVENT"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "MESSAGE_LIFXv2_DEVICE_ONBOARDING_FEEDBACK"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "FEATURE_CLAIM_OVER_SOFT_AP"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "FEATURE_FULL_BRIGHTNESS_RANGE"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "FEATURE_LIGHT_RESTORE"
+            }
+          ],
+          "family" : "lcm3",
+          "firmware" : "LCM3_32",
+          "max_brightness" : 1,
+          "min_brightness" : 0.0099999997764825821,
+          "name" : "Mini 3.1 Color US"
+        },
+        "124" : {
+          "capabilities" : [
+            {
+              "available" : "ALWAYS",
+              "capability" : "KELVIN_PROFILE_FULL_SPECTRUM"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "FEATURE_HOMEKIT"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "PROTOCOL_LIFXv1"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "PROTOCOL_HTTP_UPGRADE"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "TRANSPORT_LAN"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "TRANSPORT_WAN"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "FEATURE_LIGHT_COLORS"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "FEATURE_LIGHT_TUNABLE_WHITES"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "FEATURE_LIGHT_WAVEFORMS"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "FEATURE_LIGHT_VARIABLE_BRIGHTNESS"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "FEATURE_V2_GROUPING"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "FEATURE_STROBE"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "MESSAGE_LIFXv1_ACKS"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "MESSAGE_LIFXv1_SOURCE_SEQUENCE"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "MESSAGE_LIFXv1_DEVICE_SET_PAN_GATEWAY"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "MESSAGE_LIFXv1_DEVICE_SET_SITE"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "MESSAGE_LIFXv1_DEVICE_SET_FACTORY_RESET"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "MESSAGE_LIFXv1_DEVICE_ECHO_REQUEST"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "MESSAGE_LIFXv1_LIGHT_SET_POWER"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "MESSAGE_LIFXv1_LIGHT_SET_WAVEFORM_OPTIONAL"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "MESSAGE_LIFXv1_LIGHT_SET_SIMPLE_EVENT"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "MESSAGE_LIFXv2_DEVICE_ONBOARDING_FEEDBACK"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "FEATURE_CLAIM_OVER_SOFT_AP"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "FEATURE_FULL_BRIGHTNESS_RANGE"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "FEATURE_LIGHT_RESTORE"
+            }
+          ],
+          "family" : "lcm3",
+          "firmware" : "LCM3_32",
+          "max_brightness" : 1,
+          "min_brightness" : 0.0099999997764825821,
+          "name" : "Mini 3.1 Color Intl"
+        },
+        "125" : {
+          "capabilities" : [
+            {
+              "available" : "ALWAYS",
+              "capability" : "KELVIN_PROFILE_FULL_SPECTRUM"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "FEATURE_HOMEKIT"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "PROTOCOL_LIFXv1"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "PROTOCOL_HTTP_UPGRADE"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "TRANSPORT_LAN"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "TRANSPORT_WAN"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "FEATURE_LIGHT_TUNABLE_WHITES"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "FEATURE_LIGHT_WAVEFORMS"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "FEATURE_LIGHT_VARIABLE_BRIGHTNESS"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "FEATURE_V2_GROUPING"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "FEATURE_STROBE"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "MESSAGE_LIFXv1_ACKS"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "MESSAGE_LIFXv1_SOURCE_SEQUENCE"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "MESSAGE_LIFXv1_DEVICE_SET_PAN_GATEWAY"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "MESSAGE_LIFXv1_DEVICE_SET_SITE"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "MESSAGE_LIFXv1_DEVICE_SET_FACTORY_RESET"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "MESSAGE_LIFXv1_DEVICE_ECHO_REQUEST"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "MESSAGE_LIFXv1_LIGHT_SET_POWER"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "MESSAGE_LIFXv1_LIGHT_SET_WAVEFORM_OPTIONAL"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "MESSAGE_LIFXv1_LIGHT_SET_SIMPLE_EVENT"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "MESSAGE_LIFXv2_DEVICE_ONBOARDING_FEEDBACK"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "FEATURE_CLAIM_OVER_SOFT_AP"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "FEATURE_FULL_BRIGHTNESS_RANGE"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "FEATURE_LIGHT_RESTORE"
+            }
+          ],
+          "family" : "lcm3",
+          "firmware" : "LCM3_32",
+          "max_brightness" : 1,
+          "min_brightness" : 0.0099999997764825821,
+          "name" : "Mini 3.1 WW US"
+        },
+        "126" : {
+          "capabilities" : [
+            {
+              "available" : "ALWAYS",
+              "capability" : "KELVIN_PROFILE_FULL_SPECTRUM"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "FEATURE_HOMEKIT"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "PROTOCOL_LIFXv1"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "PROTOCOL_HTTP_UPGRADE"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "TRANSPORT_LAN"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "TRANSPORT_WAN"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "FEATURE_LIGHT_TUNABLE_WHITES"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "FEATURE_LIGHT_WAVEFORMS"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "FEATURE_LIGHT_VARIABLE_BRIGHTNESS"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "FEATURE_V2_GROUPING"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "FEATURE_STROBE"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "MESSAGE_LIFXv1_ACKS"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "MESSAGE_LIFXv1_SOURCE_SEQUENCE"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "MESSAGE_LIFXv1_DEVICE_SET_PAN_GATEWAY"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "MESSAGE_LIFXv1_DEVICE_SET_SITE"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "MESSAGE_LIFXv1_DEVICE_SET_FACTORY_RESET"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "MESSAGE_LIFXv1_DEVICE_ECHO_REQUEST"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "MESSAGE_LIFXv1_LIGHT_SET_POWER"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "MESSAGE_LIFXv1_LIGHT_SET_WAVEFORM_OPTIONAL"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "MESSAGE_LIFXv1_LIGHT_SET_SIMPLE_EVENT"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "MESSAGE_LIFXv2_DEVICE_ONBOARDING_FEEDBACK"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "FEATURE_CLAIM_OVER_SOFT_AP"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "FEATURE_FULL_BRIGHTNESS_RANGE"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "FEATURE_LIGHT_RESTORE"
+            }
+          ],
+          "family" : "lcm3",
+          "firmware" : "LCM3_32",
+          "max_brightness" : 1,
+          "min_brightness" : 0.0099999997764825821,
+          "name" : "Mini 3.1 WW Intl"
+        },
+        "127" : {
+          "capabilities" : [
+            {
+              "available" : "ALWAYS",
+              "capability" : "KELVIN_PROFILE_WHITE_SINGLE"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "FEATURE_HOMEKIT"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "PROTOCOL_LIFXv1"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "PROTOCOL_HTTP_UPGRADE"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "TRANSPORT_LAN"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "TRANSPORT_WAN"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "FEATURE_LIGHT_WAVEFORMS"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "FEATURE_LIGHT_VARIABLE_BRIGHTNESS"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "FEATURE_V2_GROUPING"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "FEATURE_STROBE"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "MESSAGE_LIFXv1_ACKS"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "MESSAGE_LIFXv1_SOURCE_SEQUENCE"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "MESSAGE_LIFXv1_DEVICE_SET_PAN_GATEWAY"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "MESSAGE_LIFXv1_DEVICE_SET_SITE"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "MESSAGE_LIFXv1_DEVICE_SET_FACTORY_RESET"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "MESSAGE_LIFXv1_DEVICE_ECHO_REQUEST"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "MESSAGE_LIFXv1_LIGHT_SET_POWER"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "MESSAGE_LIFXv1_LIGHT_SET_WAVEFORM_OPTIONAL"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "MESSAGE_LIFXv1_LIGHT_SET_SIMPLE_EVENT"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "MESSAGE_LIFXv2_DEVICE_ONBOARDING_FEEDBACK"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "FEATURE_CLAIM_OVER_SOFT_AP"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "FEATURE_FULL_BRIGHTNESS_RANGE"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "FEATURE_LIGHT_RESTORE"
+            }
+          ],
+          "family" : "lcm3",
+          "firmware" : "LCM3_32",
+          "max_brightness" : 1,
+          "min_brightness" : 0.0099999997764825821,
+          "name" : "Mini 3.1 W US"
+        },
+        "128" : {
+          "capabilities" : [
+            {
+              "available" : "ALWAYS",
+              "capability" : "KELVIN_PROFILE_WHITE_SINGLE"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "FEATURE_HOMEKIT"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "PROTOCOL_LIFXv1"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "PROTOCOL_HTTP_UPGRADE"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "TRANSPORT_LAN"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "TRANSPORT_WAN"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "FEATURE_LIGHT_WAVEFORMS"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "FEATURE_LIGHT_VARIABLE_BRIGHTNESS"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "FEATURE_V2_GROUPING"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "FEATURE_STROBE"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "MESSAGE_LIFXv1_ACKS"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "MESSAGE_LIFXv1_SOURCE_SEQUENCE"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "MESSAGE_LIFXv1_DEVICE_SET_PAN_GATEWAY"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "MESSAGE_LIFXv1_DEVICE_SET_SITE"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "MESSAGE_LIFXv1_DEVICE_SET_FACTORY_RESET"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "MESSAGE_LIFXv1_DEVICE_ECHO_REQUEST"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "MESSAGE_LIFXv1_LIGHT_SET_POWER"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "MESSAGE_LIFXv1_LIGHT_SET_WAVEFORM_OPTIONAL"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "MESSAGE_LIFXv1_LIGHT_SET_SIMPLE_EVENT"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "MESSAGE_LIFXv2_DEVICE_ONBOARDING_FEEDBACK"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "FEATURE_CLAIM_OVER_SOFT_AP"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "FEATURE_FULL_BRIGHTNESS_RANGE"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "FEATURE_LIGHT_RESTORE"
+            }
+          ],
+          "family" : "lcm3",
+          "firmware" : "LCM3_32",
+          "max_brightness" : 1,
+          "min_brightness" : 0.0099999997764825821,
+          "name" : "Mini 3.1 W Intl"
+        },
+        "129" : {
+          "capabilities" : [
+            {
+              "available" : "ALWAYS",
+              "capability" : "KELVIN_PROFILE_FULL_SPECTRUM"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "FEATURE_HOMEKIT"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "PROTOCOL_LIFXv1"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "PROTOCOL_HTTP_UPGRADE"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "TRANSPORT_LAN"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "TRANSPORT_WAN"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "FEATURE_LIGHT_COLORS"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "FEATURE_LIGHT_TUNABLE_WHITES"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "FEATURE_LIGHT_WAVEFORMS"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "FEATURE_LIGHT_VARIABLE_BRIGHTNESS"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "FEATURE_V2_GROUPING"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "FEATURE_STROBE"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "MESSAGE_LIFXv1_ACKS"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "MESSAGE_LIFXv1_SOURCE_SEQUENCE"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "MESSAGE_LIFXv1_DEVICE_SET_PAN_GATEWAY"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "MESSAGE_LIFXv1_DEVICE_SET_SITE"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "MESSAGE_LIFXv1_DEVICE_SET_FACTORY_RESET"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "MESSAGE_LIFXv1_DEVICE_ECHO_REQUEST"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "MESSAGE_LIFXv1_LIGHT_SET_POWER"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "MESSAGE_LIFXv1_LIGHT_SET_WAVEFORM_OPTIONAL"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "MESSAGE_LIFXv1_LIGHT_SET_SIMPLE_EVENT"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "MESSAGE_LIFXv2_DEVICE_ONBOARDING_FEEDBACK"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "FEATURE_CLAIM_OVER_SOFT_AP"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "FEATURE_FULL_BRIGHTNESS_RANGE"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "FEATURE_LIGHT_RESTORE"
+            }
+          ],
+          "family" : "lcm3",
+          "firmware" : "LCM3_32",
+          "max_brightness" : 1,
+          "min_brightness" : 0.0099999997764825821,
+          "name" : "Color 800"
+        },
+        "130" : {
+          "capabilities" : [
+            {
+              "available" : "ALWAYS",
+              "capability" : "KELVIN_PROFILE_FULL_SPECTRUM"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "FEATURE_HOMEKIT"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "PROTOCOL_LIFXv1"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "PROTOCOL_HTTP_UPGRADE"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "TRANSPORT_LAN"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "TRANSPORT_WAN"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "FEATURE_LIGHT_COLORS"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "FEATURE_LIGHT_TUNABLE_WHITES"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "FEATURE_LIGHT_WAVEFORMS"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "FEATURE_LIGHT_VARIABLE_BRIGHTNESS"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "FEATURE_V2_GROUPING"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "FEATURE_STROBE"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "MESSAGE_LIFXv1_ACKS"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "MESSAGE_LIFXv1_SOURCE_SEQUENCE"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "MESSAGE_LIFXv1_DEVICE_SET_PAN_GATEWAY"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "MESSAGE_LIFXv1_DEVICE_SET_SITE"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "MESSAGE_LIFXv1_DEVICE_SET_FACTORY_RESET"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "MESSAGE_LIFXv1_DEVICE_ECHO_REQUEST"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "MESSAGE_LIFXv1_LIGHT_SET_POWER"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "MESSAGE_LIFXv1_LIGHT_SET_WAVEFORM_OPTIONAL"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "MESSAGE_LIFXv1_LIGHT_SET_SIMPLE_EVENT"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "MESSAGE_LIFXv2_DEVICE_ONBOARDING_FEEDBACK"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "FEATURE_CLAIM_OVER_SOFT_AP"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "FEATURE_FULL_BRIGHTNESS_RANGE"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "FEATURE_LIGHT_RESTORE"
+            }
+          ],
+          "family" : "lcm3",
+          "firmware" : "LCM3_32",
+          "max_brightness" : 1,
+          "min_brightness" : 0.0099999997764825821,
+          "name" : "Colour 1000"
+        },
+        "131" : {
+          "capabilities" : [
+            {
+              "available" : "ALWAYS",
+              "capability" : "KELVIN_PROFILE_FULL_SPECTRUM"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "FEATURE_HOMEKIT"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "PROTOCOL_LIFXv1"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "PROTOCOL_HTTP_UPGRADE"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "TRANSPORT_LAN"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "TRANSPORT_WAN"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "FEATURE_LIGHT_TUNABLE_WHITES"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "FEATURE_LIGHT_WAVEFORMS"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "FEATURE_LIGHT_VARIABLE_BRIGHTNESS"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "FEATURE_V2_GROUPING"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "FEATURE_STROBE"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "MESSAGE_LIFXv1_ACKS"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "MESSAGE_LIFXv1_SOURCE_SEQUENCE"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "MESSAGE_LIFXv1_DEVICE_SET_PAN_GATEWAY"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "MESSAGE_LIFXv1_DEVICE_SET_SITE"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "MESSAGE_LIFXv1_DEVICE_SET_FACTORY_RESET"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "MESSAGE_LIFXv1_DEVICE_ECHO_REQUEST"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "MESSAGE_LIFXv1_LIGHT_SET_POWER"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "MESSAGE_LIFXv1_LIGHT_SET_WAVEFORM_OPTIONAL"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "MESSAGE_LIFXv1_LIGHT_SET_SIMPLE_EVENT"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "MESSAGE_LIFXv2_DEVICE_ONBOARDING_FEEDBACK"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "FEATURE_CLAIM_OVER_SOFT_AP"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "FEATURE_FULL_BRIGHTNESS_RANGE"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "FEATURE_LIGHT_RESTORE"
+            }
+          ],
+          "family" : "lcm3",
+          "firmware" : "LCM3_32",
+          "max_brightness" : 1,
+          "min_brightness" : 0.0099999997764825821,
+          "name" : "White to Warm 800"
+        },
+        "132" : {
+          "capabilities" : [
+            {
+              "available" : "ALWAYS",
+              "capability" : "KELVIN_PROFILE_FULL_SPECTRUM"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "FEATURE_HOMEKIT"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "PROTOCOL_LIFXv1"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "PROTOCOL_HTTP_UPGRADE"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "TRANSPORT_LAN"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "TRANSPORT_WAN"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "FEATURE_LIGHT_TUNABLE_WHITES"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "FEATURE_LIGHT_WAVEFORMS"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "FEATURE_LIGHT_VARIABLE_BRIGHTNESS"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "FEATURE_V2_GROUPING"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "FEATURE_STROBE"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "MESSAGE_LIFXv1_ACKS"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "MESSAGE_LIFXv1_SOURCE_SEQUENCE"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "MESSAGE_LIFXv1_DEVICE_SET_PAN_GATEWAY"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "MESSAGE_LIFXv1_DEVICE_SET_SITE"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "MESSAGE_LIFXv1_DEVICE_SET_FACTORY_RESET"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "MESSAGE_LIFXv1_DEVICE_ECHO_REQUEST"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "MESSAGE_LIFXv1_LIGHT_SET_POWER"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "MESSAGE_LIFXv1_LIGHT_SET_WAVEFORM_OPTIONAL"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "MESSAGE_LIFXv1_LIGHT_SET_SIMPLE_EVENT"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "MESSAGE_LIFXv2_DEVICE_ONBOARDING_FEEDBACK"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "FEATURE_CLAIM_OVER_SOFT_AP"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "FEATURE_FULL_BRIGHTNESS_RANGE"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "FEATURE_LIGHT_RESTORE"
+            }
+          ],
+          "family" : "lcm3",
+          "firmware" : "LCM3_32",
+          "max_brightness" : 1,
+          "min_brightness" : 0.0099999997764825821,
+          "name" : "White to Warm 1000"
+        },
+        "133" : {
+          "capabilities" : [
+            {
+              "available" : "ALWAYS",
+              "capability" : "KELVIN_PROFILE_WHITE_SINGLE"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "FEATURE_HOMEKIT"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "PROTOCOL_LIFXv1"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "PROTOCOL_HTTP_UPGRADE"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "TRANSPORT_LAN"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "TRANSPORT_WAN"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "FEATURE_LIGHT_WAVEFORMS"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "FEATURE_LIGHT_VARIABLE_BRIGHTNESS"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "FEATURE_V2_GROUPING"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "FEATURE_STROBE"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "MESSAGE_LIFXv1_ACKS"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "MESSAGE_LIFXv1_SOURCE_SEQUENCE"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "MESSAGE_LIFXv1_DEVICE_SET_PAN_GATEWAY"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "MESSAGE_LIFXv1_DEVICE_SET_SITE"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "MESSAGE_LIFXv1_DEVICE_SET_FACTORY_RESET"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "MESSAGE_LIFXv1_DEVICE_ECHO_REQUEST"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "MESSAGE_LIFXv1_LIGHT_SET_POWER"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "MESSAGE_LIFXv1_LIGHT_SET_WAVEFORM_OPTIONAL"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "MESSAGE_LIFXv1_LIGHT_SET_SIMPLE_EVENT"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "MESSAGE_LIFXv2_DEVICE_ONBOARDING_FEEDBACK"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "FEATURE_CLAIM_OVER_SOFT_AP"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "FEATURE_FULL_BRIGHTNESS_RANGE"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "FEATURE_LIGHT_RESTORE"
+            }
+          ],
+          "family" : "lcm3",
+          "firmware" : "LCM3_32",
+          "max_brightness" : 1,
+          "min_brightness" : 0.0099999997764825821,
+          "name" : "White 650"
+        },
+        "134" : {
+          "capabilities" : [
+            {
+              "available" : "ALWAYS",
+              "capability" : "KELVIN_PROFILE_WHITE_SINGLE"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "FEATURE_HOMEKIT"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "PROTOCOL_LIFXv1"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "PROTOCOL_HTTP_UPGRADE"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "TRANSPORT_LAN"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "TRANSPORT_WAN"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "FEATURE_LIGHT_WAVEFORMS"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "FEATURE_LIGHT_VARIABLE_BRIGHTNESS"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "FEATURE_V2_GROUPING"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "FEATURE_STROBE"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "MESSAGE_LIFXv1_ACKS"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "MESSAGE_LIFXv1_SOURCE_SEQUENCE"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "MESSAGE_LIFXv1_DEVICE_SET_PAN_GATEWAY"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "MESSAGE_LIFXv1_DEVICE_SET_SITE"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "MESSAGE_LIFXv1_DEVICE_SET_FACTORY_RESET"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "MESSAGE_LIFXv1_DEVICE_ECHO_REQUEST"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "MESSAGE_LIFXv1_LIGHT_SET_POWER"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "MESSAGE_LIFXv1_LIGHT_SET_WAVEFORM_OPTIONAL"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "MESSAGE_LIFXv1_LIGHT_SET_SIMPLE_EVENT"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "MESSAGE_LIFXv2_DEVICE_ONBOARDING_FEEDBACK"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "FEATURE_CLAIM_OVER_SOFT_AP"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "FEATURE_FULL_BRIGHTNESS_RANGE"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "FEATURE_LIGHT_RESTORE"
+            }
+          ],
+          "family" : "lcm3",
+          "firmware" : "LCM3_32",
+          "max_brightness" : 1,
+          "min_brightness" : 0.0099999997764825821,
+          "name" : "White 800"
+        },
+        "135" : {
+          "capabilities" : [
+            {
+              "available" : "ALWAYS",
+              "capability" : "KELVIN_PROFILE_FULL_SPECTRUM"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "FEATURE_HOMEKIT"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "PROTOCOL_LIFXv1"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "PROTOCOL_HTTP_UPGRADE"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "TRANSPORT_LAN"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "TRANSPORT_WAN"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "FEATURE_LIGHT_COLORS"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "FEATURE_LIGHT_TUNABLE_WHITES"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "FEATURE_LIGHT_WAVEFORMS"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "FEATURE_LIGHT_VARIABLE_BRIGHTNESS"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "FEATURE_V2_GROUPING"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "FEATURE_STROBE"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "MESSAGE_LIFXv1_ACKS"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "MESSAGE_LIFXv1_SOURCE_SEQUENCE"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "MESSAGE_LIFXv1_DEVICE_SET_PAN_GATEWAY"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "MESSAGE_LIFXv1_DEVICE_SET_SITE"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "MESSAGE_LIFXv1_DEVICE_SET_FACTORY_RESET"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "MESSAGE_LIFXv1_DEVICE_ECHO_REQUEST"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "MESSAGE_LIFXv1_LIGHT_SET_POWER"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "MESSAGE_LIFXv1_LIGHT_SET_WAVEFORM_OPTIONAL"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "MESSAGE_LIFXv1_LIGHT_SET_SIMPLE_EVENT"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "MESSAGE_LIFXv2_DEVICE_ONBOARDING_FEEDBACK"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "FEATURE_CLAIM_OVER_SOFT_AP"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "FEATURE_FULL_BRIGHTNESS_RANGE"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "FEATURE_LIGHT_RESTORE"
+            }
+          ],
+          "family" : "lcm3",
+          "firmware" : "LCM3_32",
+          "max_brightness" : 1,
+          "min_brightness" : 0.0099999997764825821,
+          "name" : "GU10 Color US"
+        },
+        "136" : {
+          "capabilities" : [
+            {
+              "available" : "ALWAYS",
+              "capability" : "KELVIN_PROFILE_FULL_SPECTRUM"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "FEATURE_HOMEKIT"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "PROTOCOL_LIFXv1"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "PROTOCOL_HTTP_UPGRADE"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "TRANSPORT_LAN"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "TRANSPORT_WAN"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "FEATURE_LIGHT_COLORS"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "FEATURE_LIGHT_TUNABLE_WHITES"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "FEATURE_LIGHT_WAVEFORMS"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "FEATURE_LIGHT_VARIABLE_BRIGHTNESS"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "FEATURE_V2_GROUPING"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "FEATURE_STROBE"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "MESSAGE_LIFXv1_ACKS"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "MESSAGE_LIFXv1_SOURCE_SEQUENCE"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "MESSAGE_LIFXv1_DEVICE_SET_PAN_GATEWAY"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "MESSAGE_LIFXv1_DEVICE_SET_SITE"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "MESSAGE_LIFXv1_DEVICE_SET_FACTORY_RESET"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "MESSAGE_LIFXv1_DEVICE_ECHO_REQUEST"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "MESSAGE_LIFXv1_LIGHT_SET_POWER"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "MESSAGE_LIFXv1_LIGHT_SET_WAVEFORM_OPTIONAL"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "MESSAGE_LIFXv1_LIGHT_SET_SIMPLE_EVENT"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "MESSAGE_LIFXv2_DEVICE_ONBOARDING_FEEDBACK"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "FEATURE_CLAIM_OVER_SOFT_AP"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "FEATURE_FULL_BRIGHTNESS_RANGE"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "FEATURE_LIGHT_RESTORE"
+            }
+          ],
+          "family" : "lcm3",
+          "firmware" : "LCM3_32",
+          "max_brightness" : 1,
+          "min_brightness" : 0.0099999997764825821,
+          "name" : "GU10 Color Intl"
+        },
+        "137" : {
+          "capabilities" : [
+            {
+              "available" : "ALWAYS",
+              "capability" : "PROTOCOL_LIFXv1"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "PROTOCOL_HTTP_UPGRADE"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "FEATURE_HOMEKIT"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "TRANSPORT_LAN"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "TRANSPORT_WAN"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "FEATURE_LIGHT_COLORS"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "FEATURE_LIGHT_TUNABLE_WHITES"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "FEATURE_LIGHT_WAVEFORMS"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "FEATURE_LIGHT_VARIABLE_BRIGHTNESS"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "FEATURE_V2_GROUPING"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "FEATURE_SENSOR_TEMPERATURE_HOST"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "FEATURE_SENSOR_TEMPERATURE_WIFI"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "FEATURE_STROBE"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "FEATURE_SENSOR_DEVICE_POWER"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "MESSAGE_LIFXv1_ACKS"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "MESSAGE_LIFXv1_SOURCE_SEQUENCE"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "MESSAGE_LIFXv1_DEVICE_SET_PAN_GATEWAY"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "MESSAGE_LIFXv1_DEVICE_SET_SITE"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "MESSAGE_LIFXv1_DEVICE_SET_FACTORY_RESET"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "MESSAGE_LIFXv1_DEVICE_ECHO_REQUEST"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "MESSAGE_LIFXv1_LIGHT_SET_POWER"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "MESSAGE_LIFXv1_LIGHT_SET_WAVEFORM_OPTIONAL"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "MESSAGE_LIFXv1_LIGHT_SET_SIMPLE_EVENT"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "FEATURE_DEVICE_CHAIN"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "FEATURE_MORPH_EFFECT"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "FEATURE_FIRE_EFFECT"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "DESIGN_CONICAL_APPEARANCE"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "FEATURE_CLAIM_OVER_SOFT_AP"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "MESSAGE_LIFXv2_DEVICE_ONBOARDING_FEEDBACK"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "KELVIN_PROFILE_FULL_SPECTRUM"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "FEATURE_LIGHT_RESTORE"
+            }
+          ],
+          "family" : "lcm3",
+          "firmware" : "LCM3_Candle",
+          "max_brightness" : 1,
+          "min_brightness" : 0.0099999997764825821,
+          "name" : "Candle C"
+        },
+        "138" : {
+          "capabilities" : [
+            {
+              "available" : "ALWAYS",
+              "capability" : "PROTOCOL_LIFXv1"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "PROTOCOL_HTTP_UPGRADE"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "FEATURE_HOMEKIT"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "TRANSPORT_LAN"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "TRANSPORT_WAN"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "FEATURE_LIGHT_COLORS"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "FEATURE_LIGHT_TUNABLE_WHITES"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "FEATURE_LIGHT_WAVEFORMS"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "FEATURE_LIGHT_VARIABLE_BRIGHTNESS"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "FEATURE_V2_GROUPING"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "FEATURE_SENSOR_TEMPERATURE_HOST"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "FEATURE_SENSOR_TEMPERATURE_WIFI"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "FEATURE_STROBE"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "FEATURE_SENSOR_DEVICE_POWER"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "MESSAGE_LIFXv1_ACKS"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "MESSAGE_LIFXv1_SOURCE_SEQUENCE"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "MESSAGE_LIFXv1_DEVICE_SET_PAN_GATEWAY"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "MESSAGE_LIFXv1_DEVICE_SET_SITE"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "MESSAGE_LIFXv1_DEVICE_SET_FACTORY_RESET"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "MESSAGE_LIFXv1_DEVICE_ECHO_REQUEST"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "MESSAGE_LIFXv1_LIGHT_SET_POWER"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "MESSAGE_LIFXv1_LIGHT_SET_WAVEFORM_OPTIONAL"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "MESSAGE_LIFXv1_LIGHT_SET_SIMPLE_EVENT"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "FEATURE_DEVICE_CHAIN"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "FEATURE_MORPH_EFFECT"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "FEATURE_FIRE_EFFECT"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "DESIGN_CONICAL_APPEARANCE"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "FEATURE_CLAIM_OVER_SOFT_AP"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "MESSAGE_LIFXv2_DEVICE_ONBOARDING_FEEDBACK"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "KELVIN_PROFILE_FULL_SPECTRUM"
+            },
+            {
+              "available" : "ALWAYS",
+              "capability" : "FEATURE_LIGHT_RESTORE"
+            }
+          ],
+          "family" : "lcm3",
+          "firmware" : "LCM3_Candle",
+          "max_brightness" : 1,
+          "min_brightness" : 0.0099999997764825821,
+          "name" : "Candle C"
         }
       }
     },
